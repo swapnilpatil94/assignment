@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://swapnil:swapnil@cluster0-umgn7.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "MckinSecretKey"
+}
